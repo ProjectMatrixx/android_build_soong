@@ -284,6 +284,14 @@ vendor\.mediatek\..*
 # LMODroid adds
 com\.libremobileos\..*
 
+# MTK adds
+com\.mediatek
+com\.mediatek\..*
+mediatek
+mediatek\..*
+vendor\.mediatek
+vendor\.mediatek\..*
+
 # NT adds
 com\.nothing
 com\.nothing\..*
